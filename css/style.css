@@ -42,6 +42,8 @@ footer {
 	background-color: black;
 	color:white;
 	text-align: center;
+	letter-spacing: 1px;
+	font-family: sans-serif;
 }
 
 .about {
@@ -55,6 +57,20 @@ footer {
 .about a {
 	text-decoration: none;
 	color:red;
+}
+
+table {
+
+	margin: 0 auto;
+	border:1px solid black;
+}
+
+.gallery {
+	margin-top:20px;
+}
+
+tr td {
+	border: 1px solid black;
 }
 
 
